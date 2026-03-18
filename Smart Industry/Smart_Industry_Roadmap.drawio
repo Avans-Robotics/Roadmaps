@@ -1,0 +1,44 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36" version="29.6.3" pages="2">
+  <diagram name="Pagina-1" id="JKjTjP_Z8_ettvKGc5-N">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-qPH66gKWdr-cD2dVFuO-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" value="Perception" vertex="1">
+          <mxGeometry height="110" width="760" x="20" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-qPH66gKWdr-cD2dVFuO-4" edge="1" parent="1" source="-qPH66gKWdr-cD2dVFuO-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="-qPH66gKWdr-cD2dVFuO-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Proximity Detection" link="data:page/id,pN064brEhk1mmUXiPKVZ" id="-qPH66gKWdr-cD2dVFuO-2">
+          <mxCell parent="1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="60" width="120" x="40" y="120" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="-qPH66gKWdr-cD2dVFuO-3" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="2D Marker localization" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="BDk3sie-WvPnZQWMcLwH-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;labelPosition=center;verticalLabelPosition=middle;verticalAlign=top;" value="Manipulation" vertex="1">
+          <mxGeometry height="110" width="760" x="20" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="BDk3sie-WvPnZQWMcLwH-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="300" as="sourcePoint" />
+            <mxPoint x="240" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BDk3sie-WvPnZQWMcLwH-5" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="2D Marker localization" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="270" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pN064brEhk1mmUXiPKVZ" name="Proximity_details">
+    <mxGraphModel dx="1426" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
